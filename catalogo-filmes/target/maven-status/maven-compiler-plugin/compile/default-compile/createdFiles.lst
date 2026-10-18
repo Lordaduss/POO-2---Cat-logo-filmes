@@ -1,0 +1,10 @@
+dao\GeneroDAO.class
+util\ConexaoDB.class
+app\Main.class
+model\Genero.class
+controller\GeneroController.class
+dao\FilmeDAO.class
+model\Filme.class
+controller\FilmeController.class
+util\Alerta.class
+controller\MenuController.class
